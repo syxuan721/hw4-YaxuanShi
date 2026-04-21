@@ -89,7 +89,7 @@ def run_question(question_number: int, question: str):
 def main():
     questions = load_questions()
 
-    # 改这里控制跑哪些题
+    #selecte
     selected = [1, 5]
 
     for q_num in selected:
