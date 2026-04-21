@@ -1,5 +1,7 @@
 # Week 4 Starter: Math Agent
 
+Video walkthrough: https://youtu.be/KnWtqJVPME8
+
 A ReAct agent that solves questions using tool calls.
 
 ## Setup
